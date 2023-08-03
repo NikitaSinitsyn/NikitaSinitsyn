@@ -1,10 +1,15 @@
-# Hello there! 👋
+# Hello there! 👋 My name is Nikita.
 
----
+
 
 ### :man_technologist: About Me:
 
 I am a Java developer with 1.5 years of experience in the industry. My journey with Java started previous year, and it has been an incredible ride ever since. I take pride in writing clean, maintainable code and strive to continuously improve my skills through various challenges and learning opportunities.
+
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
+
 
 ---
 
@@ -15,13 +20,6 @@ I am a firm believer in the power of open source and the positive impact it has 
 ---
 
 
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-
----
 
 ### 🤝 Social Media:
 
