@@ -84,7 +84,9 @@ I am a firm believer in the power of open source and the positive impact it has 
 
 <table>
   <tr>
- 
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=NikitaSinitsyn&theme=dark&background=000000" alt="Nikita Sinitsyn's Github stats" />
+    </td>
     <td>
       <img height="195px" align="right" alt="Nikita Sinitsyn's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikitaSinitsyn&layout=compact&theme=vision-friendly-dark" />
     </td>
